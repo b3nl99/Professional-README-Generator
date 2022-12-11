@@ -71,18 +71,18 @@ function generateMarkdown(answer) {
   ### ${answer.usage}
 
   ## Contributors:
-  ### ${answer.contributtions}
+  ### ${answer.contributions}
 
   ## Tests:
   ### Run the following commands in your terminal to test his app:
-  ### ${answer.tests}
+  ### ${answer.test}
 
   ## Questions:
   ### If your have any questions, you may contact me at either
-  ### Github: https://github.com/${answer.askme}
+  ### Github: https://github.com/${answer.askMe}
   ### or
   ### Email: ${answer.email}
-  
+
 `;
 }
 
